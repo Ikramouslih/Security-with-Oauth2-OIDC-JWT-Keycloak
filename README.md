@@ -46,6 +46,11 @@ Keycloak est une solution open source de gestion des identités et des accès qu
 
 ## Partie 1 ##
 
+Démarrer Keycloak en mode développement : `C:\tools\keycloak-23.0.4\bin>kc.bat start-dev`
+<br><br>
+<img width="960" alt="Screenshot 2024-01-11 002249" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/0777055e-3e7c-4649-9b49-76a88acacb66">
+<img width="960" alt="Screenshot 2024-01-11 002047" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/d66d61cf-b8a8-4a41-8ec0-08ad065adf25">
+<img width="958" alt="Screenshot 2024-01-11 002106" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/2581da27-0321-40c1-9d2b-c692f63d7e55">
 <img width="960" alt="1" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/4f4e7d8c-dc99-492e-95fc-6969bb105c84">
 <img width="958" alt="2" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/7d37ea6e-5c87-483e-a2e2-3409c90c007f">
 <img width="960" alt="3" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/8072c325-9747-4587-b1a4-1ce1a7a2220a">
