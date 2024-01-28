@@ -14,7 +14,7 @@
     <name>customer-front-thymeleaf-app</name>
     <description>customer-front-thymeleaf-app</description>
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
