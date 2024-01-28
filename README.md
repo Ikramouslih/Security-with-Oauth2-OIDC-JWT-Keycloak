@@ -44,7 +44,7 @@ OpenID Connect est une extension d'OAuth 2.0 qui ajoute une couche d'authentific
 
 Keycloak est une solution open source de gestion des identités et des accès qui prend en charge OAuth 2.0 et OIDC. Il fournit des fonctionnalités telles que l'authentification unique (SSO), la gestion des utilisateurs, la gestion des rôles, la protection des ressources, et plus encore. Keycloak peut être utilisé pour sécuriser des applications web et des services, facilitant ainsi la mise en place de mécanismes d'authentification et d'autorisation robustes.
 
-## Partie 1 ##
+# Partie 1 #
 
 Démarrer Keycloak en mode développement : `C:\tools\keycloak-23.0.4\bin>kc.bat start-dev`
 <br><br>
@@ -73,4 +73,36 @@ Démarrer Keycloak en mode développement : `C:\tools\keycloak-23.0.4\bin>kc.bat
 <img width="960" alt="20" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/4375d458-efe2-454f-8372-051cba366976">
 <img width="960" alt="21" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/f04fbe85-fec5-4c4f-a9d6-e25adba079c8">
 <img width="874" alt="22" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/5757c0d9-081b-47d2-8b53-27824355cc87">
+
+# Partie 2 #
+
+## Thymeleaf ##
+
+### Authentification avec Google : ###
+<img width="960" alt="Screenshot 2024-01-27 184443" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/34b82568-cb74-4709-a5e4-0ff188f196d7">
+<img width="960" alt="Screenshot 2024-01-27 193650" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/189c69ff-648b-41ab-b8b1-385666e676be">
+<img width="960" alt="Screenshot 2024-01-27 193501" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/b11989de-7bd5-4c4d-b58d-17561dee1872">
+<img width="960" alt="Screenshot 2024-01-27 193520" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/c93e1076-7ab9-42fb-b7cf-8693ea213dae">
+
+### Authentification avec Keycloak : ###
+<img width="960" alt="Screenshot 2024-01-27 185440" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/3ef15b91-7de0-4465-b369-7cc2cabb37bc">
+<img width="960" alt="screencapture-localhost-8080-admin-master-console-2024-01-27-18_50_56" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/bfdf164f-91b1-44c9-ac57-08bcba20de9e">
+<img width="960" alt="Screenshot 2024-01-27 184543" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/076715fd-bbe1-45fc-88b5-7a9e777333da">
+<img width="960" alt="Screenshot 2024-01-27 193642" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/f00ee975-1a4a-4d4d-a2bd-ec28c142786b">
+<img width="960" alt="Screenshot 2024-01-27 193544" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/e42baebd-8503-45c1-8248-1334168e2295">
+<img width="960" alt="Screenshot 2024-01-27 193601" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/06c30dcd-ef65-4ef4-97d5-e65db21007dd">
+
+### Authentification avec Github : ###
+![screencapture-github-settings-applications-2457777-2024-01-27-18_49_22](https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/2bed42dc-58c7-41ac-9157-7858da523915)
+<img width="960" alt="Screenshot 2024-01-27 193618" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/a84a22c1-3a7a-448d-b481-40d9c8a10915">
+<img width="960" alt="Screenshot 2024-01-27 171349" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/a2c20e29-ce00-4bc9-8449-45756597257a">
+<img width="960" alt="Screenshot 2024-01-27 193627" src="https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/f1530943-f8d5-4ba9-8cda-5e079430b3f8">
+
+
+## Angular ##
+
+https://github.com/Ikramouslih/Security-with-Oauth2-OIDC-JWT-Keycloak/assets/60039200/18597f4e-8cf7-426d-8cc2-88edaa6607c7
+
+
+
 
